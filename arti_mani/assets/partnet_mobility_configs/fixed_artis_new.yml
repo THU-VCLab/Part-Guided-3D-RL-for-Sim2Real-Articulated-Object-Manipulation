@@ -1,0 +1,596 @@
+cabinet_door:
+  0:
+    bbox_max:
+    - 0.28999994695186615
+    - 0.3999999910593033
+    - 0.539999932050705
+    bbox_min:
+    - -0.013750851653615115
+    - -0.35098102688789246
+    - 0.0
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.8
+    - 0.05
+    - 0.85
+    posxy_rotz_min:
+    - 0.7
+    - -0.05
+    - 0.8
+    scale: 1.0
+    target_joint_idx: 1
+    target_joint_range:
+    - 0
+    - 1.57
+  1006:
+    bbox_max:
+    - 0.5479811234425931
+    - 0.47001210961341755
+    - 0.7541670483357912
+    bbox_min:
+    - -0.6269361639664459
+    - -0.4654670668009544
+    - -0.7826910289722679
+    flip: true
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.1
+    - 0.2
+    posxy_rotz_min:
+    - 0.5
+    - 0.0
+    - 0.1
+    scale: 0.39040690149538876
+    target_joint_idx: 0
+    target_joint_range:
+    - 0
+    - 1.57
+  1030:
+    bbox_max:
+    - 0.5122141468116084
+    - 0.4288960060404534
+    - 0.7673602380593998
+    bbox_min:
+    - -0.5713881586186922
+    - -0.45054911892593097
+    - -0.677443244440795
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.1
+    - 0.2
+    posxy_rotz_min:
+    - 0.5
+    - 0.0
+    - 0.1
+    scale: 0.4  # 0.41528139104545597
+    target_joint_idx: 0
+    target_joint_range:
+    - 0
+    - 1.57
+  1047:
+    bbox_max:
+    - 0.45743305398526957
+    - 0.41575004268688076
+    - 0.7681670814753776
+    bbox_min:
+    - -0.48526532620087437
+    - -0.4366740377270588
+    - -0.8656450547754453
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.1
+    - 0.2
+    posxy_rotz_min:
+    - 0.5
+    - 0.0
+    - 0.1
+    scale: 0.37  # 0.3672392845464137
+    target_joint_idx: 0
+    target_joint_range:
+    - 0
+    - 1.57
+  1081:
+    bbox_max:
+    - 0.2956960237768307
+    - 0.8147950694273742
+    - 0.5723271008805604
+    bbox_min:
+    - -0.3977130353450775
+    - -0.7770310895326151
+    - -0.56124510427302
+    flip: true
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.1
+    - 0.2
+    posxy_rotz_min:
+    - 0.5
+    - 0.0
+    - 0.1
+    scale: 0.36  # 0.39410465092913927
+    target_joint_idx: 0
+    target_joint_range:
+    - 0
+    - 1.57
+cabinet_drawer:
+  1:
+    bbox_max:
+    - 0.0
+    - 0.2800000011920929
+    - 0.453000009059906
+    bbox_min:
+    - -0.4740005432927923
+    - 0.0
+    - 0.0
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.9
+    - 0.1
+    - 0.15
+    posxy_rotz_min:
+    - 0.8
+    - 0.0
+    - 0.05
+    scale: 1.0
+    target_joint_idx: 2
+    target_joint_range:
+    - 0
+    - 0.27
+  1005:
+    bbox_max:
+    - 0.40662614149689347
+    - 0.5277910674140465
+    - 0.7028000243456347
+    bbox_min:
+    - -0.44041011937221874
+    - -0.5082939460206042
+    - -0.7865720076001885
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.15
+    - 0.15
+    posxy_rotz_min:
+    - 0.5
+    - 0.05
+    - 0.05
+    scale: 0.402854348766115
+    target_joint_idx: 2
+    target_joint_range:
+    - 0
+    - 0.2
+  1016:
+    bbox_max:
+    - 0.577189028263092
+    - 0.41257598996162415
+    - 0.7034909725189209
+    bbox_min:
+    - -0.5500340300937285
+    - -0.3858740031719208
+    - -0.8268709778785706
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.15
+    - 0.15
+    posxy_rotz_min:
+    - 0.5
+    - 0.05
+    - 0.05
+    scale: 0.39206411257425594
+    target_joint_idx: 3
+    target_joint_range:
+    - 0
+    - 0.2
+  1024:
+    bbox_max:
+    - 0.5409792261240511
+    - 0.45590213713657946
+    - 0.6779400918412222
+    bbox_min:
+    - -0.5796440360249306
+    - -0.44488613281560063
+    - -0.8019250991255049
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.15
+    - 0.15
+    posxy_rotz_min:
+    - 0.5
+    - 0.05
+    - 0.05
+    scale: 0.4054423360063276
+    target_joint_idx: 2
+    target_joint_range:
+    - 0
+    - 0.2
+  1076:
+    bbox_max:
+    - 0.4577382140474917
+    - 0.5697180264790056
+    - 0.7575410806162957
+    bbox_min:
+    - -0.4893971279267042
+    - -0.5597089914061435
+    - -0.8660100980656757
+    flip: false
+    init_open_extent_range: 0.1
+    joint_damping_range:
+    - 5.0
+    - 20.0
+    joint_friction_range:
+    - 0.05
+    - 0.15
+    joint_stiffness_range:
+    - 0.0
+    - 0.0
+    multiple_collisions: true
+    open_extent: 0.6
+    posxy_rotz_max:
+    - 0.6
+    - 0.15
+    - 0.15
+    posxy_rotz_min:
+    - 0.5
+    - 0.05
+    - 0.05
+    scale: 0.3695602626380346
+    target_joint_idx: 3
+    target_joint_range:
+    - 0
+    - 0.2
+faucet:
+  5004:
+    bbox_max:
+    - 0.3106
+    - 0.7133
+    - 0.722
+    bbox_min:
+    - -0.5992
+    - -0.7123
+    - -0.9609
+    offset:
+    - 0.10681561590112304
+    - 0.12697724166617147
+    - 0.1712936003327589
+    scale: 0.17826371145047237
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - static
+      - faucet_base
+  5007:
+    bbox_max:
+    - 0.5671
+    - 0.8966
+    - 0.5854
+    bbox_min:
+    - -0.9769
+    - -0.876
+    - -0.8958
+    offset:
+    - 0.16533340855240888
+    - 0.1482567979239535
+    - 0.15160780774004287
+    scale: 0.16924292000451313
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - static
+      - faucet_base
+  5023:
+    bbox_max:
+    - 0.7149
+    - 1.0366
+    - 0.6589
+    bbox_min:
+    - -0.9639
+    - -1.0268
+    - -0.7529
+    offset:
+    - 0.14014248328002327
+    - 0.1492875835998837
+    - 0.10946496074440246
+    scale: 0.14539110206455366
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - slider
+      - stem
+    - - link_2
+      - static
+      - faucet_base
+  5052:
+    bbox_max:
+    - 0.7567
+    - 0.8374
+    - 0.5664
+    bbox_min:
+    - -0.8565
+    - -0.8346
+    - -1.1507
+    offset:
+    - 0.14964183798264516
+    - 0.14581561935822024
+    - 0.20104245530254497
+    scale: 0.1747131791974841
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - slider
+      - stem
+    - - link_2
+      - static
+      - faucet_base
+  5069:
+    bbox_max:
+    - 0.4021
+    - 0.4836
+    - 0.4281
+    bbox_min:
+    - -0.9377
+    - -0.4823
+    - -0.4609
+    offset:
+    - 0.20996417375727722
+    - 0.10799373040752351
+    - 0.10320197044334975
+    scale: 0.2239140170174653
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - static
+      - faucet_base
+laptop:
+  9748:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.08
+    scale: 0.4
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - static
+      - laptop_base
+  9960:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.08
+    scale: 0.4
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - static
+      - laptop_base
+  9968:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.08
+    scale: 0.4
+    semantics:
+    - - link_1
+      - hinge
+      - switch
+    - - link_0
+      - static
+      - laptop_base
+  9992:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.08
+    scale: 0.4
+    semantics:
+    - - link_1
+      - hinge
+      - switch
+    - - link_0
+      - static
+      - laptop_base
+  9996:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.08
+    scale: 0.4
+    semantics:
+    - - link_0
+      - hinge
+      - switch
+    - - link_1
+      - static
+      - laptop_base
+kitchen_pot:
+  100015:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.14
+    scale: 0.25
+    semantics:
+    - - link_0
+      - slider
+      - switch
+    - - link_1
+      - static
+      - kitchenpot_base
+  100051:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.1
+    scale: 0.2
+    semantics:
+    - - link_0
+      - slider
+      - switch
+    - - link_1
+      - static
+      - kitchenpot_base
+  100054:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.12
+    scale: 0.18
+    semantics:
+    - - link_0
+      - slider
+      - switch
+    - - link_1
+      - static
+      - kitchenpot_base
+  100055:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.12
+    scale: 0.2
+    semantics:
+    - - link_0
+      - slider
+      - switch
+    - - link_1
+      - static
+      - kitchenpot_base
+  100060:
+    offset:
+    - 0.0
+    - 0.0
+    - 0.12
+    scale: 0.2
+    semantics:
+    - - link_0
+      - slider
+      - switch
+    - - link_1
+      - static
+      - kitchenpot_base

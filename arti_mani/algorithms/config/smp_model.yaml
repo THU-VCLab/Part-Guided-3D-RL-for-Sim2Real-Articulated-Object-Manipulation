@@ -1,0 +1,29 @@
+img_h: 144
+img_w: 256
+num_classes: 6
+lr: 0.003
+epochs: 200
+batch_size: 16
+# train_ratio: 0.7
+# val_ratio: 0.3
+# SoftCrossEntropyLoss, LovaszLoss, FocalLoss, TverskyLoss, DiceLoss, JaccardLoss
+loss: "wce"
+data_path: "data_process"
+n_workers: 4
+exp_suffix: "full_splitnet_aug_square_wce_dropout"
+device: "cuda:0"
+smp_config:
+  mode: "RGBD" # RGBD, RGD, RGB, D
+  sample: 4
+  min_weight: 0.2
+  augmentation: True
+  copy_paste: False
+  dropout_p: 0.2
+  encoder: "splitnet"
+  # splitnet, mobilenet_v2
+  encoder_weights: "imagenet"
+  encoder_depth: 4
+  decoder_channels: [128, 64, 32, 16] # [128, 64, 32], [64, 32, 16]
+  classes: ["handle", "door", "cabinet", "switchlink", "fixlink", "other"]
+#  pooling: 'avg'  # one of 'avg', 'max'
+#  dropout: 0.5  # dropout ratio, default is None

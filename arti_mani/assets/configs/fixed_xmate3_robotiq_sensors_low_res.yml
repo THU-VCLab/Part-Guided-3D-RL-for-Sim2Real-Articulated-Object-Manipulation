@@ -1,0 +1,94 @@
+agent_class: "FixedXmate3Robotiq"
+name: "fixed_xmate3_robotiq"
+urdf_file: "fixed_xmate3_robotiq.urdf"
+urdf_config:
+  materials:
+    gripper:
+      static_friction: 1.0
+      dynamic_friction: 1.0
+      restitution: 0.0
+  links:
+    left_inner_finger_pad:
+      material: "gripper"
+      patch_radius: 0.1
+      min_patch_radius: 0.1
+    right_inner_finger_pad:
+      material: "gripper"
+      patch_radius: 0.1
+      min_patch_radius: 0.1
+default_init_qpos: [ 0, 0.5, 0, 0.5, 0, 0.5, 0, 0, 0 ]
+default_control_mode: "pd_joint_pos"
+torque_freq: 10
+cameras:
+  - name: "hand_camera"
+    #    d415
+    #    hand color intrin: [ 640x360  p[ 317.926 175.346 ]  f[ 453.231 452.83 ]  Inverse Brown Conrady [ 0 0 0 0 0 ] ]
+    #    hand depth intrin: [ 640x360  p[ 316.28 184.701 ]  f[ 446.854 446.854 ]  Brown Conrady [ 0 0 0 0 0 ] ]
+    #    d435
+    #    hand color intrin: [ 640x360  p[ 316.521 184.421 ]  f[ 458.514 458.728 ]  Inverse Brown Conrady [ 0 0 0 0 0 ] ]
+    #    hand depth intrin: [ 640x360  p[ 321.439 181.81 ]  f[ 318.557 318.557 ]  Brown Conrady [ 0 0 0 0 0 ] ]
+    mount: "camera_hand_link"
+    hide_mount_link: true
+    mount_p: [ 0,0,0 ]
+    mount_q: [ 1,0,0,0 ]
+    width: 256
+    height: 144
+    fx: 183.406
+    fy: 183.491
+    cx: 126.608
+    cy: 73.768
+    near: 0.2
+    far: 2.0
+    skew: 0
+sensors:
+  - name: "hand"
+    mount: "camera_hand_link"
+    rgb_resolution: [ 256, 144 ]
+    ir_resolution: [ 256, 144 ]
+    rgb_intrinsic: [[183.406, 0., 126.608], [0., 183.491, 73.768], [0., 0., 1.]]
+    ir_intrinsic: [[183.406, 0., 126.608], [0., 183.491, 73.768], [0., 0., 1.]]
+    trans_pose_l: [-0.000258044, -0.0147611, -0.000184758, 0.999995, -0.000861459, 0.00270606, -0.00121069]
+    trans_pose_r: [-1.21578e-05, -0.064705, -6.35905e-05, 0.999995, -0.000861459, 0.00270606, -0.00121069]
+    light_pattern_path: "descriptions/realsense2_description/d415-pattern-sq.png"
+    max_depth: 2.0
+    min_depth: 0.2
+    max_disp: 64
+    ir_ambient_strength: 0.002
+    ir_light_dim_factor: 0.05
+    ir_light_fov: 2.0
+    ir_intensity: 5.0
+controllers:
+  pd_joint_delta_pos:
+    - controller_type: "GeneralPDJointPosController"
+      interpolate: false
+      use_delta: true
+      control_joints: [ 'joint1', 'joint2',
+                        'joint3', 'joint4',
+                        'joint5', 'joint6',
+                        'joint7', ]
+      controller_name: "ArmController"
+      joint_delta_pos_min: -0.05
+      joint_delta_pos_max: 0.05
+#      joint_stiffness: 3000
+#      joint_damping: 1
+      joint_stiffness: 3000
+      joint_damping: 100
+#      joint_stiffness: [ 1000, 1000, 1000, 1000, 100, 100, 100 ]
+#      joint_damping: [20, 20, 20, 20, 10, 10, 10]
+      #      joint_stiffness: [500, 500, 500, 500, 50, 50, 50]
+      #      joint_damping: [10, 10, 10, 10, 5, 5, 5]
+#      joint_stiffness: [ 200, 200, 200, 200, 20, 20, 20 ]
+#      joint_damping: [ 2, 2, 2, 2, 1, 1, 1 ]
+#      joint_stiffness: [300, 300, 300, 300, 100, 100, 100]
+#      joint_damping: [20, 20, 20, 20, 10, 10, 10]
+      joint_friction: 0
+    - controller_type: "GripperPDJointPosMimicController"
+      interpolate: false
+      control_joints: [ 'robotiq_2f_140_left_driver_joint', 'robotiq_2f_140_right_driver_joint' ]
+      controller_name: 'RobotiQMimic'
+      joint_stiffness: 10000
+      joint_damping: 3000
+      joint_friction: 0.2
+      joint_force_limit: 800
+      joint_pos_min: 0.0
+      joint_pos_max: 0.068
