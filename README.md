@@ -1,5 +1,5 @@
 # Part-Guided 3D RL for Sim2Real Articulated Object Manipulation
-### [Paper](https://ieeexplore.ieee.org/document/10242361)
+### [Paper](https://ieeexplore.ieee.org/document/10242361) | [Video](https://www.youtube.com/watch?v=b8KvOjlGNJs)
 This project contains the implementation of our RA-L 2023 paper.
 ![](./img/Framework.png)
 
