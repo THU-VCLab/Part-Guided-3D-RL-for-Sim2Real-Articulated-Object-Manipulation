@@ -1,0 +1,1505 @@
+0:
+  bbox_max:
+  - 0.28999994695186615
+  - 0.3999999910593033
+  - 0.539999932050705
+  bbox_min:
+  - -0.013750851653615115
+  - -0.35098102688789246
+  - 0.0
+  flip: false
+  init_open_extent_range: 0.1
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.6
+  posxy_rotz_max:
+  - 0.8
+  - 0.05
+  - 0.85
+  posxy_rotz_min:
+  - 0.7
+  - -0.05
+  - 0.8
+  scale: 1.0
+  target_joint_idx: 1
+  target_joint_range:
+  - 0
+  - 1.57
+1000:
+  bbox_max:
+  - 0.4564952856043476
+  - 0.6995652449500511
+  - 0.5598122672412345
+  bbox_min:
+  - -0.48134524665278144
+  - -0.6871941610087156
+  - -0.666936208819628
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.432663371470105
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1001:
+  bbox_max:
+  - 0.5252540370553724
+  - 0.29569800197255613
+  - 0.8147940127759572
+  bbox_min:
+  - -0.5782020564544235
+  - -0.29000397136455813
+  - -0.8690999829114077
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.432663371470105
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1002:
+  bbox_max:
+  - 0.5802210369266856
+  - 0.26924498404923103
+  - 0.783892015252678
+  bbox_min:
+  - -0.613807235317708
+  - -0.28383900302490517
+  - -0.8062240312325653
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.37733095098702163
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1006:
+  bbox_max:
+  - 0.5479811234425931
+  - 0.47001210961341755
+  - 0.7541670483357912
+  bbox_min:
+  - -0.6269361639664459
+  - -0.4654670668009544
+  - -0.7826910289722679
+  flip: true
+  init_open_extent_range: 0.1
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.6
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.39040690149538876
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1007:
+  bbox_max:
+  - 0.3483190355681174
+  - 0.7563611193344606
+  - 0.6486850973372427
+  bbox_min:
+  - -0.4022711797649876
+  - -0.7135362258334155
+  - -0.6516080932525377
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.4081917706514902
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1014:
+  bbox_max:
+  - 0.5633270816000717
+  - 0.2116090476425896
+  - 0.7307021372352835
+  bbox_min:
+  - -0.6198210933388779
+  - -0.1959831655346136
+  - -0.8317321197737435
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.38401615767730407
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1017:
+  bbox_max:
+  - 0.526641170767725
+  - 0.45254208158493014
+  - 0.7397370422419884
+  bbox_min:
+  - -0.6040751712096935
+  - -0.45635799044674563
+  - -0.753457075614036
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.401823174110476
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1018:
+  bbox_max:
+  - 0.45595904659736064
+  - 0.6732991040772234
+  - 0.6266361573451782
+  bbox_min:
+  - -0.5047921169060459
+  - -0.6506061797007341
+  - -0.6421071235929752
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.45320462675986317
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1025:
+  bbox_max:
+  - 0.4147540032863617
+  - 0.6839140057563782
+  - 0.6254630088806152
+  bbox_min:
+  - -0.4483390634503337
+  - -0.711866021156311
+  - -0.5210700035095215
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.4298671627556768
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1026:
+  bbox_max:
+  - 0.5317340969153648
+  - 0.3785120401992792
+  - 0.7778151883208722
+  bbox_min:
+  - -0.6083948819764853
+  - -0.41271104368102485
+  - -0.7386941900349875
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3956454266379128
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1027:
+  bbox_max:
+  - 0.41862719368386436
+  - 0.41243514505946877
+  - 0.6957121530730674
+  bbox_min:
+  - -0.43907015509545744
+  - -0.402801137985346
+  - -0.8448923045268089
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.38945752560962094
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1028:
+  bbox_max:
+  - 0.3898842474820583
+  - 0.8638091785987605
+  - 0.371939993725416
+  bbox_min:
+  - -0.45882520342004085
+  - -0.9170901973899603
+  - -0.3701010909388067
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.41528139104545597
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1030:
+  bbox_max:
+  - 0.5122141468116084
+  - 0.4288960060404534
+  - 0.7673602380593998
+  bbox_min:
+  - -0.5713881586186922
+  - -0.45054911892593097
+  - -0.677443244440795
+  flip: false
+  init_open_extent_range: 0.1
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.6
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.4  # 0.41528139104545597
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1031:
+  bbox_max:
+  - 0.42939501044142325
+  - 0.6797010244492308
+  - 0.6789960721034412
+  bbox_min:
+  - -0.5179892577723209
+  - -0.6352220300948614
+  - -0.5811390736508368
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.45630046406634106
+  target_joint_idx: 1
+  target_joint_range:
+  - 0
+  - 1.57
+1034:
+  bbox_max:
+  - 0.4681429862976074
+  - 0.6618199944496155
+  - 0.6438559889793396
+  bbox_min:
+  - -0.5314615330628767
+  - -0.702567994594574
+  - -0.6636829972267151
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.43  # 0.43975760913897
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1036:
+  bbox_max:
+  - 0.45950214442992277
+  - 0.664373059794066
+  - 0.6154651893253309
+  bbox_min:
+  - -0.49071936613690426
+  - -0.6450220519330472
+  - -0.6393721812268467
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.4582268519458503
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1038:
+  bbox_max:
+  - 0.4266121512420149
+  - 0.475364178481815
+  - 0.7115111515668637
+  bbox_min:
+  - -0.47194000066268416
+  - -0.47107310077738873
+  - -0.8433501228250257
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3858865159752992
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1039:
+  bbox_max:
+  - 0.4481380336193439
+  - 0.6640150216572867
+  - 0.6725991100762485
+  bbox_min:
+  - -0.5007083344125749
+  - -0.6512331231768158
+  - -0.5878470701661733
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.45618768013976585
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1041:
+  bbox_max:
+  - 0.5591170681466444
+  - 0.21934822901392081
+  - 0.7019130725926157
+  bbox_min:
+  - -0.6541431493604151
+  - -0.20254317089306895
+  - -0.8215830183120953
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.39383100723527076
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1042:
+  bbox_max:
+  - 0.3102650046348572
+  - 0.5934169888496399
+  - 0.7664430141448975
+  bbox_min:
+  - -0.3327644602117532
+  - -0.6289759874343872
+  - -0.7735794792287349
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.38960469901034817
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1044:
+  bbox_max:
+  - 0.2686831812243433
+  - 0.8519411377354835
+  - 0.46438512226950834
+  bbox_min:
+  - -0.30553826217874835
+  - -0.8600211530215738
+  - -0.5199931063026213
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3504750094318201
+  target_joint_idx: 3
+  target_joint_range:
+  - 0
+  - 1.57
+1045:
+  bbox_max:
+  - 0.43038908634817474
+  - 0.4801591172252291
+  - 0.7285380053614983
+  bbox_min:
+  - -0.49017396413075587
+  - -0.4921730511643254
+  - -0.868866055047393
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.4382109807714019
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1046:
+  bbox_max:
+  - 0.2558821910069007
+  - 0.7863281819300667
+  - 0.6123580470511882
+  bbox_min:
+  - -0.32084117359215014
+  - -0.7783441413285672
+  - -0.5912360657734865
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.38346687103816207
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1047:
+  bbox_max:
+  - 0.45743305398526957
+  - 0.41575004268688076
+  - 0.7681670814753776
+  bbox_min:
+  - -0.48526532620087437
+  - -0.4366740377270588
+  - -0.8656450547754453
+  flip: false
+  init_open_extent_range: 0.1
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.6
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.37  # 0.3672392845464137
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1049:
+  bbox_max:
+  - 0.44626412253886194
+  - 0.44007916485395704
+  - 0.8307541230308999
+  bbox_min:
+  - -0.531817312280654
+  - -0.43337009427466633
+  - -0.8433561568653305
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3583993284105459
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1051:
+  bbox_max:
+  - 0.5628931860076172
+  - 0.2041452377898647
+  - 0.7485432704685895
+  bbox_min:
+  - -0.6362813715115774
+  - -0.20896714350438472
+  - -0.8350562242443544
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.378883677345932
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1052:
+  bbox_max:
+  - 0.37395912879377136
+  - 0.6875650476956956
+  - 0.6055623871517142
+  bbox_min:
+  - -0.41070511125993736
+  - -0.6988349979902502
+  - -0.7230710432365512
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.4327755194952691
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1054:
+  bbox_max:
+  - 0.5851269960403442
+  - 0.4598279893398285
+  - 0.7274720072746277
+  bbox_min:
+  - -0.6403322761738295
+  - -0.5018389821052551
+  - -0.8218820095062256
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3872581692121216
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1057:
+  bbox_max:
+  - 0.4675990552068363
+  - 0.41391705845737725
+  - 0.822452088415087
+  bbox_min:
+  - -0.5083491323550344
+  - -0.45898011626017166
+  - -0.8506010743596537
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3586257827007161
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1060:
+  bbox_max:
+  - 0.24515500664710999
+  - 0.48678499460220337
+  - 0.8241071990433344
+  bbox_min:
+  - -0.2718654168413055
+  - -0.49606600403785706
+  - -0.8784700036048889
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3524069270202536
+  target_joint_idx: 1
+  target_joint_range:
+  - 0
+  - 1.57
+1061:
+  bbox_max:
+  - 0.5599900821604749
+  - 0.403939078253984
+  - 0.7485001030957683
+  bbox_min:
+  - -0.5915088860126723
+  - -0.3951731024384486
+  - -0.7831321061649312
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3917389542817285
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1062:
+  bbox_max:
+  - 0.43407908824115893
+  - 0.4132920145525336
+  - 0.7760910556670417
+  bbox_min:
+  - -0.5091723015047016
+  - -0.42000896546232624
+  - -0.8210690564407113
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.37566678221645994
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1063:
+  bbox_max:
+  - 0.44086720033645577
+  - 0.4678071774320589
+  - 0.7166431606968064
+  bbox_min:
+  - -0.46182405723702935
+  - -0.462574252386208
+  - -0.8118401026973725
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.392546005814698
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1064:
+  bbox_max:
+  - 0.23364199697971344
+  - 0.44831201434135437
+  - 0.8811451134252565
+  bbox_min:
+  - -0.25169824794590456
+  - -0.47431400418281555
+  - -0.8623999953269958
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.34412645648691187
+  target_joint_idx: 1
+  target_joint_range:
+  - 0
+  - 1.57
+1065:
+  bbox_max:
+  - 0.3475652028589238
+  - 0.7357801476622825
+  - 0.6374781528244
+  bbox_min:
+  - -0.4135763958500329
+  - -0.7392251344565111
+  - -0.6673341509544883
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.40677820430454387
+  target_joint_idx: 1
+  target_joint_range:
+  - 0
+  - 1.57
+1067:
+  bbox_max:
+  - 0.5594600791882272
+  - 0.42889890306991596
+  - 0.700950115259884
+  bbox_min:
+  - -0.6276661804843542
+  - -0.38127208127403023
+  - -0.8518780575914988
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.38639175311860113
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1068:
+  bbox_max:
+  - 0.26249205756357163
+  - 0.781579055946171
+  - 0.6426850784400093
+  bbox_min:
+  - -0.32413794518405403
+  - -0.7543260238907337
+  - -0.637236056023271
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.3255409507813427
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1073:
+  bbox_max:
+  - 0.5178850799403207
+  - 0.4686229259314558
+  - 0.6962019801139832
+  bbox_min:
+  - -0.5987290122853466
+  - -0.43543109571677263
+  - -0.7890290021896362
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.403977567899499
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1075:
+  bbox_max:
+  - 0.46872210323846275
+  - 0.6686059129115325
+  - 0.6233280655425766
+  bbox_min:
+  - -0.50116812789798
+  - -0.6662960805677773
+  - -0.6559540790324192
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.44947119933213253
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1077:
+  bbox_max:
+  - 0.5630410206152803
+  - 0.39016805876946314
+  - 0.6824561062672103
+  bbox_min:
+  - -0.5690368359730842
+  - -0.3935781029979015
+  - -0.8197230741063954
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.39941972824491845
+  target_joint_idx: 1
+  target_joint_range:
+  - 0
+  - 1.57
+1078:
+  bbox_max:
+  - 0.3590650354291789
+  - 0.7245789586474896
+  - 0.6574430328226697
+  bbox_min:
+  - -0.42142333141916755
+  - -0.7693610388306382
+  - -0.6641180345417261
+  flip: false
+  init_open_extent_range: 0.0
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.4
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.40162255580066186
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
+1081:
+  bbox_max:
+  - 0.2956960237768307
+  - 0.8147950694273742
+  - 0.5723271008805604
+  bbox_min:
+  - -0.3977130353450775
+  - -0.7770310895326151
+  - -0.56124510427302
+  flip: true
+  init_open_extent_range: 0.1
+  joint_damping_range:
+  - 5.0
+  - 20.0
+  joint_friction_range:
+  - 0.05
+  - 0.15
+  joint_stiffness_range:
+  - 0.0
+  - 0.0
+  multiple_collisions: true
+  open_extent: 0.6
+  posxy_rotz_max:
+  - 0.6
+  - 0.1
+  - 0.2
+  posxy_rotz_min:
+  - 0.5
+  - 0.0
+  - 0.1
+  scale: 0.36  # 0.39410465092913927
+  target_joint_idx: 0
+  target_joint_range:
+  - 0
+  - 1.57
