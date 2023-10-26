@@ -34,9 +34,9 @@ arti_mani/algorithms/config/smp_model.yaml
 
 **Evaluation**: Performance is tested on validation data using `arti_mani/algorithms/visual_net/scripts/test_sim.py`, and is also tested with new data collected from simulation environment by `arti_mani/algorithms/visual_net/scripts/test_new.py`.
 
-**Synthetic Dataset & Checkpoints**
-[Synthetic Dataset](https://cloud.tsinghua.edu.cn/d/416c7eaed80448a09526/)
-[Checkpoints](https://cloud.tsinghua.edu.cn/d/5ea9fd7747074511bb93/)
+**Synthetic Dataset & Checkpoints**: 
+[Synthetic Dataset](https://cloud.tsinghua.edu.cn/d/416c7eaed80448a09526/), 
+[Checkpoints](https://cloud.tsinghua.edu.cn/d/5ea9fd7747074511bb93/).
 
 ## RL Policy Training & Evaluation
 ```angular2html
