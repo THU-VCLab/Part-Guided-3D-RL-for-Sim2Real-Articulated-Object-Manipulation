@@ -17,7 +17,7 @@ urdf_config:
       patch_radius: 0.1
       min_patch_radius: 0.1
 default_init_qpos: [ 0, 0.5, 0, 0.5, 0, 0.5, 0, 0, 0 ]
-default_control_mode: "pd_joint_pos"
+default_control_mode: "pd_joint_delta_pos"
 torque_freq: 10
 cameras:
   - name: "hand_camera"

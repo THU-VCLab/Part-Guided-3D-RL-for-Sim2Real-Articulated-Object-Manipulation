@@ -7,7 +7,7 @@ import sapien.core as sapien
 import yaml
 from arti_mani import DESCRIPTION_DIR
 from arti_mani.agents.base_agent import (
-    ActiveLightSensor,
+    StereoDepthSensor,
     AgentConfig,
     MountedActiveLightSensorConfig,
     MountedCameraConfig,
@@ -34,7 +34,7 @@ class FloatingRobotiq:
     _scene: sapien.Scene
     _robot: sapien.Articulation
     _cameras: Dict[str, sapien.CameraEntity]
-    _sensors: Dict[str, ActiveLightSensor]
+    _sensors: Dict[str, StereoDepthSensor]
 
     def __init__(self, config: AgentConfig, scene: sapien.Scene, control_freq: int):
         self._config = copy.deepcopy(config)

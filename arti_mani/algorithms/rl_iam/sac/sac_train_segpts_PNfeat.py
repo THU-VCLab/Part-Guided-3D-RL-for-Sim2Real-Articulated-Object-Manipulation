@@ -66,7 +66,7 @@ if __name__ == "__main__":
     segmodel_path = (
         VISUALMODEL_DIR
         / "smp_model/20230219_000940_train52-val18_384_noDR_randombg_aug_stereo_bs16_focalloss_0.5step50lr0.001_RGBDunet-163264128_mobilenet_v2"
-    )
+    )  # you can change to other pretrained segmentation models
     other_handle_visible = False
     obs_mode = "state_egostereo_segpoints"
     control_mode = "pd_joint_delta_pos"

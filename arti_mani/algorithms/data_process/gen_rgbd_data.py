@@ -6,6 +6,11 @@ import gym
 import matplotlib.pyplot as plt
 import numpy as np
 from arti_mani import ASSET_DIR
+from arti_mani.envs.floating_robotiqenv import (
+    CabinetDoor,
+    CabinetDrawer,
+    Faucet,
+)  # register gym envs
 from arti_mani.utils.cv_utils import visualize_depth, visualize_seg
 from arti_mani.utils.sapien_utils import look_at
 from PIL import Image
@@ -67,9 +72,9 @@ if __name__ == "__main__":
     assert data_mode in ["seg", "keypoints"]
     save_mode = True
     ir_mode = True
-    domain_random = True
-    random_bg_mode = False
-    render_mode = False
+    domain_random = True  # random textures & materials on artis
+    random_bg_mode = False  # random background RGBD images
+    render_mode = False  # render each RGB-D-seg images
     H, W = 144, 256
     dist_xy_xz_num = (8, 8, 12)
     num_classes = 6
