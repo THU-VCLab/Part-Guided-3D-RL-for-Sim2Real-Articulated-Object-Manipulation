@@ -35,7 +35,8 @@ arti_mani/algorithms/config/smp_model.yaml
 **Evaluation**: Performance is tested on validation data using `arti_mani/algorithms/visual_net/scripts/test_sim.py`, and is also tested with new data collected from simulation environment by `arti_mani/algorithms/visual_net/scripts/test_new.py`.
 
 **Synthetic Dataset**: 
-You can run `arti_mani/algorithms/data_process/gen_rgbd_data.py` to generate the synthetic dataset, or directly download the dataset from [Synthetic Dataset](https://cloud.tsinghua.edu.cn/d/416c7eaed80448a09526/),
+You can run `arti_mani/algorithms/data_process/gen_rgbd_data.py` to generate the synthetic dataset, or directly download the dataset from [Synthetic Dataset](https://cloud.tsinghua.edu.cn/d/416c7eaed80448a09526/).
+
 **Checkpoints**
 You can directly use the checkpoints under `arti_mani/algorithms/visual_net/scripts/log/smp_model/20230219_000940_train52-val18_384_noDR_randombg_aug_stereo_bs16_focalloss_0.5step50lr0.001_RGBDunet-163264128_mobilenet_v2`. For further pretrained (maybe better for sim2real), you can download them from [Checkpoints](https://cloud.tsinghua.edu.cn/d/5ea9fd7747074511bb93/).
 
