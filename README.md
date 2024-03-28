@@ -4,16 +4,16 @@
 <b><i>RA-L 2023</i></b>
 
 <div align="center">
-    <a href="https://ieeexplore.ieee.org/document/10168242" target="_blank">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10242361/" target="_blank">
     <img src="https://img.shields.io/badge/ieee-%2300629B.svg?&style=for-the-badge&logo=ieee&logoColor=white"></a>
     <a href="https://www.youtube.com/watch?v=b8KvOjlGNJs" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
-    <a href="https://www.bilibili.com/video/BV1hH4y1H7qv/" target="_blank">
+    <a href="https://www.bilibili.com/video/BV1aH4y1H7aQ/" target="_blank">
     <img src="https://img.shields.io/badge/bilibili-%2300A1D6.svg?&style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
 </div>
 </h2>
 
-Official code of paper [Part-Guided 3D RL for Sim2Real Articulated Object Manipulation](https://ieeexplore.ieee.org/document/10168242)
+Official code of paper [Part-Guided 3D RL for Sim2Real Articulated Object Manipulation](https://ieeexplore.ieee.org/abstract/document/10242361/)
 
 This project contains the implementation of our RA-L 2023 paper.
 ![](./img/Framework.png)
