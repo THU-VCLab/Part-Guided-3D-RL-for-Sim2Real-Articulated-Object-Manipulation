@@ -1,7 +1,7 @@
 <h2 align="center">
   <b>Part-Guided 3D RL for Sim2Real Articulated Object Manipulation</b>
 
-`<b><i>`RA-L 2023 `</i></b>`
+<b><i>RA-L 2023 </i></b>
 
 <div align="center">
     <a href="https://ieeexplore.ieee.org/abstract/document/10242361/" target="_blank">
