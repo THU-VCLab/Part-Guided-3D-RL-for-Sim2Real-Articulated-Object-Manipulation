@@ -34,7 +34,7 @@ cd arti_mani/docker
 conda env create -f arti_mani.yaml 
 ```
 
-Partnet Mobility Dataset: downloading from https://cloud.tsinghua.edu.cn/f/44f01920dcb44714b717/?dl=1.
+Partnet Mobility Dataset: downloading from [this link](https://drive.google.com/file/d/1BdTjw70BSFVnWqxkZuQigyDM58TDffkK/view?usp=sharing).
 
 # Training and Evaluation in Simulation
 
@@ -59,10 +59,10 @@ arti_mani/algorithms/config/smp_model.yaml
 **Evaluation**: Performance is tested on validation data using `arti_mani/algorithms/visual_net/scripts/test_sim.py`, and is also tested with new data collected from simulation environment by `arti_mani/algorithms/visual_net/scripts/test_new.py`.
 
 **Synthetic Dataset**:
-You can run `arti_mani/algorithms/data_process/gen_rgbd_data.py` to generate the synthetic dataset, or directly download the dataset from [Synthetic Dataset](https://cloud.tsinghua.edu.cn/d/416c7eaed80448a09526/).
+You can run `arti_mani/algorithms/data_process/gen_rgbd_data.py` to generate the synthetic dataset, or directly download the dataset from [Synthetic Dataset](https://drive.google.com/drive/folders/1cwuDE-V-XqhWLrn-67ABL5ZbhgWkZPQJ?usp=sharing).
 
 **Checkpoints**
-You can directly use the checkpoints under `arti_mani/algorithms/visual_net/scripts/log/smp_model/20230219_000940_train52-val18_384_noDR_randombg_aug_stereo_bs16_focalloss_0.5step50lr0.001_RGBDunet-163264128_mobilenet_v2`. For further pretrained (maybe better for sim2real), you can download them from [Checkpoints](https://cloud.tsinghua.edu.cn/d/5ea9fd7747074511bb93/).
+You can directly use the checkpoints under `arti_mani/algorithms/visual_net/scripts/log/smp_model/20230219_000940_train52-val18_384_noDR_randombg_aug_stereo_bs16_focalloss_0.5step50lr0.001_RGBDunet-163264128_mobilenet_v2`. For further pretrained (maybe better for sim2real), you can download them from [Checkpoints](https://drive.google.com/drive/folders/1u0x83IBVZl-z1Fwlx2Fv1zgaDzl11lhB?usp=sharing).
 
 ## RL Policy Training & Evaluation
 
@@ -88,7 +88,7 @@ You can change the `mode` in the script according your specified task (OpenDoor,
 
 ## Part Segmentation
 
-We also collected about 200 real RGB-D images and annotated them using [Labelme](https://github.com/wkentaro/labelme). You can download with https://cloud.tsinghua.edu.cn/f/e1d2808c731c4440ba7e/?dl=1. We can evaluate the performance and visualize the uncertainty map by:
+We also collected about 200 real RGB-D images and annotated them using [Labelme](https://github.com/wkentaro/labelme). You can download with [this](https://drive.google.com/file/d/1hr7wXvbDDtOoAH77zdunE4rSLm7cxLum/view?usp=sharing). We can evaluate the performance and visualize the uncertainty map by:
 
 ```shell
 cd arti_mani/algorithms/visual_net/scripts
